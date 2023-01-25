@@ -4,7 +4,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-##Context
+## Context
 Quarkus application that expose a Web-service on port 8081 (port modified on `application.properties` file) with a some delay.
 Example request: `http://localhost:8080/message`
 This application wait the calls from `quarkus-rest-client` app
